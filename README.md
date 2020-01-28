@@ -4,6 +4,7 @@ This tutorial is only for Lenovo legion Y730/Y740. Back up your important files 
 
 # Download: Hackintosh Tutorial by Siam.pdf
 All files are zipped, so unzip them before use.
+If you face any problem with my EFI file, then I will suggest you to download the EFI file from SᗩᕼᗩᗷᗩT GEᗰᗷᒪᑌᑎG
 
 # Special Thanks To:
 1. tonymacx86: https://www.tonymacx86.com/
