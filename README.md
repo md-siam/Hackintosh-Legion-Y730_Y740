@@ -3,7 +3,7 @@ If you are a windows user and require macOS to learn XCode, then you can transfo
 This tutorial is only for Lenovo legion Y730/Y740. Back up your important files before starting. All files, that you require for macOS installation, are available in my GitHub page. So, let’s begin…
 
 # Download: Hackintosh Tutorial by Siam.pdf
-All files are zipped, so unzib them before use.
+All files are zipped, so unzip them before use.
 
 # Special Thanks To:
 1. tonymacx86: https://www.tonymacx86.com/
