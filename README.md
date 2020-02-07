@@ -13,7 +13,7 @@ If you face any problem with my EFI file, then I will suggest you to download th
 4. ComputerTipsLaiju: https://www.youtube.com/watch?v=57aA8e9YQSg&t=66s
 
 # Intel® Virtualization Technology (Intel® VT)
-Many application uses Intel Virtualization Technology, example like:
+Many applications use Intel Virtualization Technology to work properly, example like:
 1. XAMPP
 2. Android Studio
 3. Virtual Machine/VMWare
