@@ -11,3 +11,11 @@ If you face any problem with my EFI file, then I will suggest you to download th
 2. geekrar: https://www.geekrar.com/
 3. ᔕᗩᕼᗩᗷᗩT GEᗰᗷᒪᑌᑎG : https://twitter.com/Goeprulz
 4. ComputerTipsLaiju: https://www.youtube.com/watch?v=57aA8e9YQSg&t=66s
+
+#Intel® Virtualization Technology (IVT)
+Many application uses IVT, example like:
+1. XAMPP
+2. Android Studio
+3. etc
+
+So, I enabled Intel Virtual Technology from BIOS, and those apps are working now.
