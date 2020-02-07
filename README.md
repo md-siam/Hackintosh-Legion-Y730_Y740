@@ -19,4 +19,4 @@ Many application uses Intel Virtualization Technology, example like:
 3. Virtual Machine/VMWare
 4. etc..
 
-So, I enabled Intel Virtual Technology from BIOS, and those apps are working now.
+So, after successful hackintosh, I enabled "Intel Virtual Technology" from BIOS, and those apps are working perfectly.
