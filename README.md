@@ -15,8 +15,8 @@ If you are a windows user and require macOS to learn XCode, then you can transfo
   - Exit: Save the changes and exit from BIOS
 
 
-## Make bootable USB with macOS Mojave:
-- Here I will explain the process of making a bootable USB drive. Be patience here:
+## Make Bootable USB with macOS Mojave:
+- Here I will explain the process of making a bootable USB drive. So be patience:
   - Size of the USB drive can be 8GB or more.
   - Use USB 2.0 drive, to avoid error like: 🚫  sign with [dark background](https://github.com/md-siam/Hackintosh-Legion-Y730_Y740/blob/master/images/USB_Disconnected.jpg)
   - Use Unibeast for making a bootable USB, and for that you can should first install macOS into a VirtualBox (assuming u don’t have access to a macOS).
@@ -39,7 +39,7 @@ If you are a windows user and require macOS to learn XCode, then you can transfo
   - If you are not familiar with Terminal, then follow the procedure in [photo 1](https://github.com/md-siam/Hackintosh-Legion-Y730_Y740/blob/master/images/macOS_3.jpg) & [photo 2](https://github.com/md-siam/Hackintosh-Legion-Y730_Y740/blob/master/images/macOS_4.jpg) to set the year to 2016.
   - After changing the year, press Install macOS. It will start the installation of macOS to your Y730.
   - Congratulation! 👍
-
+  
 
 ## After macOS Installation: 
   - Choose the partition where you install your macOS Mojave, suppose "macOS SSD".
