@@ -16,7 +16,7 @@ This tutorial is only for Lenovo legion Y730/Y740. Back up your important files 
 
 
 ## Bootable USB with macOS Mojave:
-- Here I will explain the process of making a bootable USB drive. Please be patience:
+- Here I will explain the process of making a bootable USB drive. Be patience here:
   - Size of the USB drive can be 8GB or more.
   - Use USB 2.0 drive, to avoid errors like: 🚫  sign with dark [background](https://github.com/md-siam/Hackintosh-Legion-Y730_Y740/blob/master/images/USB_Disconnected.jpg)
   - Use Unibeast for making a bootable USB, and for that you can first install macOS into a VirtualBox (assuming u don’t have access to a mac).
@@ -38,8 +38,16 @@ This tutorial is only for Lenovo legion Y730/Y740. Back up your important files 
   - First disconnect your ethernet cable.
   - If you are not familiar with Terminal, then follow the procedure in [photo 1](https://github.com/md-siam/Hackintosh-Legion-Y730_Y740/blob/master/images/macOS_3.jpg) & [photo 2](https://github.com/md-siam/Hackintosh-Legion-Y730_Y740/blob/master/images/macOS_4.jpg) to set the year to 2016.
   - After changing the year, press Install macOS. It will start the installation of macOS to your Y730.
-  - The hard part is over now. 
+  - Congratulation! 👍
 
+
+## After macOS Installation: 
+  - Choose the partition where you install your macOS Mojave, suppose "macOS SSD".
+  - Setup your keyboard.
+  - Copy "Clover Configarator" app to your application forlder.
+  - Mount the EFI partition of both USB and "macOS SSD".
+  - Copy the EFI folder from USB to EFI partition of "macOS SSD".
+  - Now enjoy your hackingtosh.
 
 ## Things that do not works:
 <img align="right" src="images/TP-Link%20Archer%20T4U%20AC1300.jpg" height="250">
