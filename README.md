@@ -50,7 +50,7 @@ This tutorial is only for Lenovo legion Y730/Y740. Back up your important files 
   - Now enjoy your hackingtosh.
 
 ## Things that do not works:
-<img align="right" src="images/TP-Link%20Archer%20T4U%20AC1300.jpg" height="250">
+<img align="right" src="images/TP-Link%20Archer%20T4U%20AC1300.jpg" height="350">
 <p align="justify" >
 So far everything is working smoothly, except the Wi-Fi card inside the laptop. With my laptop there is Intel® Wireless-AC 9560 dual band Wi-Fi card, and there is no macOS driver for this Intel 9560 Wifi card. But the <b>Bluetooth</b> inside the Intel card works perfectly. So, in order to enable the Wi-Fi connection, I bought a Tp-Link Archer T4U Wi-Fi adapter. A picture of my WiFi card is given on your right. Driver for this Wi-Fi adapter can be downloaded from <a href="https://www.tp-link.com/uk/support/download/archer-t4u/#Driver" target="_blank">here</a>.
 </p>
@@ -65,10 +65,10 @@ If you want to keep inverything inside your laptop, then Broadcom BCM94352Z Wi-F
 
 ## Intel® Virtualization Technology (Intel® VT)
 Many applications use Intel Virtualization Technology to work properly, example like:
-1. XAMPP
-2. Android Studio
-3. Virtual Machine/VMWare
-4. etc..
+  - XAMPP
+  - Android Studio
+  - Virtual Machine/VMWare
+  - etc..
 
 So, after successful macOS installation, enabled "Intel Virtual Technology" from BIOS, and those apps will work perfectly.
 
