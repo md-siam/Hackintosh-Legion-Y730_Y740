@@ -51,12 +51,12 @@ If you are a windows user and require macOS to learn XCode, then you can transfo
 ## Things that do not works:
 <img align="right" src="images/TP-Link%20Archer%20T4U%20AC1300.jpg" height="350">
 <p align="justify" >
-So far everything is working smoothly, except the <b>Wi-Fi card</b> inside the laptop. With my laptop there is Intel® Wireless-AC 9560 dual band Wi-Fi card, and there is no macOS driver for this Intel 9560 Wifi card. But the <b>Bluetooth</b> inside the Intel card works perfectly. So, in order to enable the Wi-Fi connection, I bought a Tp-Link Archer T4U Wi-Fi adapter. A picture of my WiFi card is given on your right. Driver for this Wi-Fi adapter can be downloaded from <a href="https://www.tp-link.com/uk/support/download/archer-t4u/#Driver" target="_blank">here</a>.
+So far everything is working smoothly, except the <b>Wi-Fi card</b> inside the laptop. With my laptop, there is Intel® Wireless-AC 9560 dual-band Wi-Fi card, and there is no macOS driver for this Intel 9560 Wifi card. But the <b>Bluetooth</b> inside the Intel card works perfectly. So, to enable the Wi-Fi connection, I bought a Tp-Link Archer T4U Wi-Fi adapter. A picture of my WiFi card is given on your right. Driver for this Wi-Fi adapter can be downloaded from <a href="https://www.tp-link.com/uk/support/download/archer-t4u/#Driver" target="_blank">here</a>.
 </p>
 
 
 ## Alternative of Archer T4U:
-<img align="left" src="images/BCM94352Z.jpg" height="350">
+<img align="left" src="images/BCM94352Z.jpg" height="349">
 <p align="justify" >
 If you want to keep everything inside your laptop and do not want a big ugly USB drive always attached the back of the laptop, then the <b>Broadcom BCM94352Z</b> Wi-Fi card is the alternative of the Tp-Link Archer T4U adapter. But it is expensive if you want to buy it brand new. This card is manufactured by <b>Lenovo</b> only.
 </p>
@@ -73,9 +73,9 @@ After installing the Broadcom BCM94352Z Wi-Fi card you will need some additional
 Many applications use Intel Virtualization Technology to work properly, examples like:
 - Android Emulator
 - iPhone Simulator
+- XAMPP
 - Virtual Machine
 - VMWare
-- XAMPP
 - etc..
 
 So, after successful macOS installation, enabled "Intel Virtual Technology" from BIOS, and those apps will work properly.
