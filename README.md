@@ -15,7 +15,7 @@ If you are a windows user and require macOS to learn XCode, then you can transfo
   - Exit: Save the changes and exit from BIOS
 
 
-## Bootable USB with macOS Mojave:
+## Make bootable USB with macOS Mojave:
 - Here I will explain the process of making a bootable USB drive. Be patience here:
   - Size of the USB drive can be 8GB or more.
   - Use USB 2.0 drive, to avoid error like: 🚫  sign with [dark background](https://github.com/md-siam/Hackintosh-Legion-Y730_Y740/blob/master/images/USB_Disconnected.jpg)
