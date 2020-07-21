@@ -61,6 +61,9 @@ So far everything is working smoothly, except the Wi-Fi card inside the laptop. 
 <p align="justify" >
 If you want to keep inverything inside your laptop, then Broadcom BCM94352Z Wi-Fi card is the alternative of Tp-Link Archer T4U. But it is expensive if you want to buy it brand new. This card is menufacture my <b>Lenovo</b>. Check for Lenovo branding ,in the card, before you buy any Wi-Fi card. Any Wi-Fi card will not work with Legion Y730. So, the Wi-Fi card on your left will work with Apple macOS. After installing the Broadcom BCM94352Z Wi-Fi card you will need some additional kext files. 
 </p>
+<p align="justify" >
+  
+  </p>
 
 
 ## Special Thanks To:
