@@ -1,7 +1,6 @@
 # Lenovo Legion Y730 running macOS Mojave
 <p align="justify" >
-If you are a windows user and require macOS to learn XCode, then you can transform your windows machine into hackintosh machine. Remember, this tutorial is for educational purpose. I will be not responsible for any damage done to your device while installing macOS. Do at your own risk.
-This tutorial is only for Lenovo legion Y730/Y740. Back up your important files before starting. All files, that you require for macOS installation, are available in my GitHub page. So, let’s begin
+If you are a windows user and require macOS to learn XCode, then you can transform your windows machine into the Hackintosh machine. Remember, this tutorial is for educational purpose. I will be not responsible for any damage done to your device while installing macOS. Do at your own risk. This tutorial is only for Lenovo legion Y730/Y740. Back up your important files before starting. All files, that you require for macOS installation, are available on my GitHub page. So, let’s begin
 </p>
 <p align="center"><img src="images/macOS.png"></p>
 
@@ -59,13 +58,13 @@ So far everything is working smoothly, except the <b>Wi-Fi card</b> inside the l
 ## Alternative of Archer T4U:
 <img align="left" src="images/BCM94352Z.jpg" height="350">
 <p align="justify" >
-If you want to keep everything inside your laptop, then the <b>Broadcom BCM94352Z</b> Wi-Fi card is the alternative of the Tp-Link Archer T4U adapter. But it is expensive if you want to buy it brand new. This card is manufactured by <b>Lenovo</b> only.
+If you want to keep everything inside your laptop and do not want a big ugly USB drive always attached the back of the laptop, then the <b>Broadcom BCM94352Z</b> Wi-Fi card is the alternative of the Tp-Link Archer T4U adapter. But it is expensive if you want to buy it brand new. This card is manufactured by <b>Lenovo</b> only.
 </p>
 <p align="justify" >
 Check for Lenovo branding, on the card, before you buy any Wi-Fi card. There DW cards from DELL which will not work, & can damage your macOS installation files. So, only Lenovo branding <b>Broadcom BCM94352Z</b> Wi-Fi card will work in Legion Y730. The Wi-Fi card on your left will work with Apple macOS.
 </p>
 <p align="justify" >
-After installing the Broadcom BCM94352Z Wi-Fi card you will need some additional kext files from a different source. I do not have those kext files into the EFI folder. Follow the guide given below to enable your <b>Broadcom Wi-Fi card</b>. 
+After installing the Broadcom BCM94352Z Wi-Fi card you will need some additional <b>kext</b> files from a different source. I do not have those kext files into the EFI folder. Follow the guide given below to enable your <b>Broadcom Wi-Fi card</b>. 
 </br> Guide: <a href="https://www.tonymacx86.com/threads/broadcom-wifi-bluetooth-guide.242423/" target="_blank">Broadcom WiFi/Bluetooth</a>.
 </p>
 
