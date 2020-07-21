@@ -1,9 +1,20 @@
-# Lenovo Legion Y730 with macOS Mojave
+# Lenovo Legion Y730 running macOS Mojave
+<p align="justify" >
 If you are a windows user and require macOS to learn XCode, then you can transform your windows machine into hackintosh machine. Remember, this tutorial is for educational purpose. I will be not responsible for any damage done to your device while installing macOS. Do at your own risk.
 This tutorial is only for Lenovo legion Y730/Y740. Back up your important files before starting. All files, that you require for macOS installation, are available in my GitHub page. So, let’s begin
+</p>
+<p align="center"><img src="images/macOS.png"></p>
 
-## Download: Complete tutorial.pdf
-All files are zipped, so unzip them before use.
+
+## BIOS Settings:
+
+- Press F2 to get into the BIOS. Match your BIOS setting with the pictures gives below:
+  - Configuration: [Photo](https://github.com/md-siam/Hackintosh-Legion-Y730_Y740/blob/master/images/BIOS_1.jpg)
+  - Device Configuration: [Photo](https://github.com/md-siam/Hackintosh-Legion-Y730_Y740/blob/master/images/BIOS_2.jpg)
+  - Boot: No change
+  - Exit: Save the changes and exit from BIOS
+
+
 
 ## Special Thanks To:
 1. [tonymacx86](https://www.tonymacx86.com) for Clover
