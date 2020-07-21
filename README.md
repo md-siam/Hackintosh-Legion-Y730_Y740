@@ -17,8 +17,8 @@ If you are a windows user and require macOS to learn XCode, then you can transfo
 ## Bootable USB with macOS Mojave:
 - Here I will explain the process of making a bootable USB drive. Be patience here:
   - Size of the USB drive can be 8GB or more.
-  - Use USB 2.0 drive, to avoid errors like: 🚫  sign with dark [background](https://github.com/md-siam/Hackintosh-Legion-Y730_Y740/blob/master/images/USB_Disconnected.jpg)
-  - Use Unibeast for making a bootable USB, and for that you can first install macOS into a VirtualBox (assuming u don’t have access to a mac).
+  - Use USB 2.0 drive, to avoid error like: 🚫  sign with [dark background](https://github.com/md-siam/Hackintosh-Legion-Y730_Y740/blob/master/images/USB_Disconnected.jpg)
+  - Use Unibeast for making a bootable USB, and for that you can should first install macOS into a VirtualBox (assuming u don’t have access to a macOS).
   - You can download the macOS macOS.dmg file from [geekrar.com](https://www.geekrar.com/download-macos-mojave-dmg-file-direct-links/), then open it through VirtualBox.
   - After making a USB bootable device, download "Clover Configurator" inside VirtualBox. Mount the EFI partition using clover configurator, and replace the EFI folder with my EFI folder (unzip EFI.7z before placing it inside EFI partition).
   - Done with bootable USB device.
