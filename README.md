@@ -48,7 +48,7 @@ If you are a windows user and require macOS to learn XCode, then you can transfo
   - Copy the EFI folder from USB to EFI partition of "macOS SSD".
   - Now enjoy your hackingtosh.
 
-## Things that do not works:
+## For Using Wi-Fi:
 <img align="right" src="images/TP-Link%20Archer%20T4U%20AC1300.jpg" height="350">
 <p align="justify" >
 So far everything is working smoothly, except the <b>Wi-Fi card</b> inside the laptop. With my laptop, there is Intel® Wireless-AC 9560 dual-band Wi-Fi card, and there is no macOS driver for this Intel 9560 Wifi card. But the <b>Bluetooth</b> inside the Intel card works perfectly. So, to enable the Wi-Fi connection, I bought a Tp-Link Archer T4U Wi-Fi adapter. A picture of my WiFi card is given on your right. Driver for this Wi-Fi adapter can be downloaded from <a href="https://www.tp-link.com/uk/support/download/archer-t4u/#Driver" target="_blank">here</a>.
