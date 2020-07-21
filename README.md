@@ -66,6 +66,13 @@ If you want to keep inverything inside your laptop, then Broadcom BCM94352Z Wi-F
 </p>
 
 
+## Special Thanks To:
+1. [tonymacx86](https://www.tonymacx86.com) for Clover
+2. [geekrar](https://www.geekrar.com) for full macOS Mojave DMG file [sharing](https://www.geekrar.com/download-macos-mojave-dmg-file-direct-links/)
+3. [ᔕᗩᕼᗩᗷᗩT GEᗰᗷᒪᑌᑎG](https://twitter.com/Goeprulz) for providing his [EFI](https://www.dropbox.com/s/hfy1jwdja3wbj76/EFI_LEGION_Y740_10.14.6_V3.zip?dl=0) folder
+4. [ComputerTipsLaiju](https://www.youtube.com/watch?v=57aA8e9YQSg&t=66s) for macOS installation guide
+
+
 ## Intel® Virtualization Technology (Intel® VT)
 Many applications use Intel Virtualization Technology to work properly, example like:
 - XAMPP
@@ -74,9 +81,3 @@ Many applications use Intel Virtualization Technology to work properly, example 
 - etc..
 
 So, after successful macOS installation, enabled "Intel Virtual Technology" from BIOS, and those apps will work perfectly.
-
-## Special Thanks To:
-1. [tonymacx86](https://www.tonymacx86.com) for Clover
-2. [geekrar](https://www.geekrar.com) for full macOS Mojave DMG file [sharing](https://www.geekrar.com/download-macos-mojave-dmg-file-direct-links/)
-3. [ᔕᗩᕼᗩᗷᗩT GEᗰᗷᒪᑌᑎG](https://twitter.com/Goeprulz) for providing his [EFI](https://www.dropbox.com/s/hfy1jwdja3wbj76/EFI_LEGION_Y740_10.14.6_V3.zip?dl=0) folder
-4. [ComputerTipsLaiju](https://www.youtube.com/watch?v=57aA8e9YQSg&t=66s) for macOS installation guide
