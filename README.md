@@ -59,27 +59,27 @@ So far everything is working smoothly, except the <b>Wi-Fi card</b> inside the l
 ## Alternative of Archer T4U:
 <img align="left" src="images/BCM94352Z.jpg" height="350">
 <p align="justify" >
-If you want to keep inverything inside your laptop, then <b>Broadcom BCM94352Z</b> Wi-Fi card is the alternative of Tp-Link Archer T4U. But it is expensive if you want to buy it brand new. This card is menufacture my <b>Lenovo</b>.
+If you want to keep everything inside your laptop, then <b>Broadcom BCM94352Z</b> Wi-Fi card is the alternative of Tp-Link Archer T4U adapter. But it is expensive if you want to buy it brand new. This card is menufacture my <b>Lenovo</b> only.
 </p>
 <p align="justify" >
-Check for Lenovo branding ,in the card, before you buy any Wi-Fi card. Any Wi-Fi card will not work with Legion Y730. So, the Wi-Fi card on your left will work with Apple macOS.
+Check for Lenovo branding ,on the card, before you buy any Wi-Fi card. There DW cards from DELL which will not work, & can damage your macOS installation files. So, only Lenovo branding <b>Broadcom BCM94352Z</b> Wi-Fi card will work in Legion Y730. The Wi-Fi card on your left will work with Apple macOS.
 </p>
 <p align="justify" >
-  After installing the Broadcom BCM94352Z Wi-Fi card you will need some additional kext files. Follow this guide to enable your <b>Broadcom Wi-Fi card</b>. 
+  After installing the Broadcom BCM94352Z Wi-Fi card you will need some additional kext files from different source. Follow this guide to enable your <b>Broadcom Wi-Fi card</b>. 
 </br> Guide: <a href="https://www.tonymacx86.com/threads/broadcom-wifi-bluetooth-guide.242423/" target="_blank">Broadcom WiFi/Bluetooth</a>.
 </p>
 
 
 ## Intel® Virtualization Technology (Intel® VT)
 Many applications use Intel Virtualization Technology to work properly, example like:
-- XAMPP
 - Android Emulator
 - iPhone Simulator
 - Virtual Machine
 - VMWare
+- XAMPP
 - etc..
 
-So, after successful macOS installation, enabled "Intel Virtual Technology" from BIOS, and those apps will work perfectly.
+So, after successful macOS installation, enabled "Intel Virtual Technology" from BIOS, and those apps will work properly.
 
 
 ## Special Thanks To:
