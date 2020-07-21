@@ -63,7 +63,7 @@ If you want to keep inverything inside your laptop, then Broadcom BCM94352Z Wi-F
 </p>
 <p align="justify" >
   After installing the Broadcom BCM94352Z Wi-Fi card you will need some additional kext files. Follow this guide to enable your <b>Broadcom Wi-Fi card</b>. 
-</br> Guide: 
+</br> Guide: <a href="https://www.tonymacx86.com/threads/broadcom-wifi-bluetooth-guide.242423/" target="_blank">Broadcom WiFi/Bluetooth</a>.
 </p>
 
 
