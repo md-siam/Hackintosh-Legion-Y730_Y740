@@ -64,7 +64,7 @@ If you want to keep inverything inside your laptop, then Broadcom BCM94352Z Wi-F
 
 
 ## Intel® Virtualization Technology (Intel® VT)
-Many applications use Intel Virtualization Technology to work properly, example like:
+- Many applications use Intel Virtualization Technology to work properly, example like:
   - XAMPP
   - Android Studio
   - Virtual Machine/VMWare
