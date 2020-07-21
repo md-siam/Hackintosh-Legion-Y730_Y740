@@ -65,13 +65,13 @@ If you want to keep everything inside your laptop, then the <b>Broadcom BCM94352
 Check for Lenovo branding, on the card, before you buy any Wi-Fi card. There DW cards from DELL which will not work, & can damage your macOS installation files. So, only Lenovo branding <b>Broadcom BCM94352Z</b> Wi-Fi card will work in Legion Y730. The Wi-Fi card on your left will work with Apple macOS.
 </p>
 <p align="justify" >
-  After installing the Broadcom BCM94352Z Wi-Fi card you will need some additional kext files from a different source. Follow this guide to enable your <b>Broadcom Wi-Fi card</b>. 
+After installing the Broadcom BCM94352Z Wi-Fi card you will need some additional kext files from a different source. I do not have those kext files into the EFI folder. Follow the guide given below to enable your <b>Broadcom Wi-Fi card</b>. 
 </br> Guide: <a href="https://www.tonymacx86.com/threads/broadcom-wifi-bluetooth-guide.242423/" target="_blank">Broadcom WiFi/Bluetooth</a>.
 </p>
 
 
 ## Intel® Virtualization Technology (Intel® VT)
-Many applications use Intel Virtualization Technology to work properly, example like:
+Many applications use Intel Virtualization Technology to work properly, examples like:
 - Android Emulator
 - iPhone Simulator
 - Virtual Machine
