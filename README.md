@@ -56,7 +56,7 @@ So far everything is working smoothly, except the <b>Wi-Fi card</b> inside the l
 
 
 ## Alternative of Archer T4U:
-<img align="left" src="images/BCM94352Z.jpg" height="350">
+<img align="left" src="images/BCM94352Z.jpg" height="345">
 <p align="justify" >
 If you want to keep everything inside your laptop and do not want a big ugly USB drive always attached to the back of the laptop, then the <b>Broadcom BCM94352Z</b> Wi-Fi card is the alternative of the Tp-Link Archer T4U. But it is expensive if you want to buy in brand new condition. This card is manufactured by <b>Lenovo</b> only.
 </p>
