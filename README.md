@@ -65,10 +65,10 @@ If you want to keep inverything inside your laptop, then Broadcom BCM94352Z Wi-F
 
 ## Intel® Virtualization Technology (Intel® VT)
 - Many applications use Intel Virtualization Technology to work properly, example like:
-  - XAMPP
-  - Android Studio
-  - Virtual Machine/VMWare
-  - etc..
+   - XAMPP
+   - Android Studio
+   - Virtual Machine/VMWare
+   - etc..
 
 So, after successful macOS installation, enabled "Intel Virtual Technology" from BIOS, and those apps will work perfectly.
 
