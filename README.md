@@ -1,4 +1,4 @@
-# Hackintosh for Lenovo Legion Y730 / Y740
+# Lenovo Legion Y730 with macOS Mojave
 If you are a windows user and require macOS to learn XCode, then you can transform your windows machine into hackintosh machine. Remember, this tutorial is for educational purpose. I will be not responsible for any damage done to your device while installing macOS. Do at your own risk.
 This tutorial is only for Lenovo legion Y730/Y740. Back up your important files before starting. All files, that you require for macOS installation, are available in my GitHub page. So, let’s begin…
 
