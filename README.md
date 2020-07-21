@@ -52,14 +52,17 @@ This tutorial is only for Lenovo legion Y730/Y740. Back up your important files 
 ## Things that do not works:
 <img align="right" src="images/TP-Link%20Archer%20T4U%20AC1300.jpg" height="350">
 <p align="justify" >
-So far everything is working smoothly, except the Wi-Fi card inside the laptop. With my laptop there is Intel® Wireless-AC 9560 dual band Wi-Fi card, and there is no macOS driver for this Intel 9560 Wifi card. But the <b>Bluetooth</b> inside the Intel card works perfectly. So, in order to enable the Wi-Fi connection, I bought a Tp-Link Archer T4U Wi-Fi adapter. A picture of my WiFi card is given on your right. Driver for this Wi-Fi adapter can be downloaded from <a href="https://www.tp-link.com/uk/support/download/archer-t4u/#Driver" target="_blank">here</a>.
+So far everything is working smoothly, except the <b>Wi-Fi card</b> inside the laptop. With my laptop there is Intel® Wireless-AC 9560 dual band Wi-Fi card, and there is no macOS driver for this Intel 9560 Wifi card. But the <b>Bluetooth</b> inside the Intel card works perfectly. So, in order to enable the Wi-Fi connection, I bought a Tp-Link Archer T4U Wi-Fi adapter. A picture of my WiFi card is given on your right. Driver for this Wi-Fi adapter can be downloaded from <a href="https://www.tp-link.com/uk/support/download/archer-t4u/#Driver" target="_blank">here</a>.
 </p>
 
 
 ## Alternative of Archer T4U:
 <img align="left" src="images/BCM94352Z.jpg" height="350">
 <p align="justify" >
-If you want to keep inverything inside your laptop, then Broadcom BCM94352Z Wi-Fi card is the alternative of Tp-Link Archer T4U. But it is expensive if you want to buy it brand new. This card is menufacture my <b>Lenovo</b>. Check for Lenovo branding ,in the card, before you buy any Wi-Fi card. Any Wi-Fi card will not work with Legion Y730. So, the Wi-Fi card on your left will work with Apple macOS.
+If you want to keep inverything inside your laptop, then <b>Broadcom BCM94352Z</b> Wi-Fi card is the alternative of Tp-Link Archer T4U. But it is expensive if you want to buy it brand new. This card is menufacture my <b>Lenovo</b>.
+</p>
+<p align="justify" >
+Check for Lenovo branding ,in the card, before you buy any Wi-Fi card. Any Wi-Fi card will not work with Legion Y730. So, the Wi-Fi card on your left will work with Apple macOS.
 </p>
 <p align="justify" >
   After installing the Broadcom BCM94352Z Wi-Fi card you will need some additional kext files. Follow this guide to enable your <b>Broadcom Wi-Fi card</b>. 
