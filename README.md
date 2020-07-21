@@ -15,10 +15,36 @@ This tutorial is only for Lenovo legion Y730/Y740. Back up your important files 
   - Exit: Save the changes and exit from BIOS
 
 
+## Bootable USB with macOS Mojave:
+- Here I will explain the process of making a bootable USB drive. Please be patience:
+  - Size of the USB drive can be 8GB or more.
+  - Use USB 2.0 drive, to avoid errors like: 🚫  sign with dark [background](https://github.com/md-siam/Hackintosh-Legion-Y730_Y740/blob/master/images/USB_Disconnected.jpg)
+  - Use Unibeast for making a bootable USB, and for that you can first install macOS into a VirtualBox (assuming u don’t have access to a mac).
+  - You can download the macOS macOS.dmg file from [geekrar.com](https://www.geekrar.com/download-macos-mojave-dmg-file-direct-links/), then open it through VirtualBox.
+  - After making a USB bootable device, download "Clover Configurator" inside VirtualBox. Mount the EFI partition using clover configurator, and replace the EFI folder with my EFI folder (unzip EFI.7z before placing it inside EFI partition).
+  - Done with bootable USB device.
+
+
+## macOS Mojave Installation: 
+- If everything is done properly, then installation of macOS will be without any ERRORS
+  - Insert the bootable USB driven.
+  - Press F12 to get into boot option. In the list, you will see your USB boot drive, which is loaded with macOS. Choose that.
+  - It will start Clover boot loader.
+  - You will see an option like [this](https://github.com/md-siam/Hackintosh-Legion-Y730_Y740/blob/master/images/clover_1.jpg).
+  - Choose Boot macOS. This will execute the installation process. 
+  - You will see [macOS Utilities](https://github.com/md-siam/Hackintosh-Legion-Y730_Y740/blob/master/images/macOS_1.jpg).
+  - Choose Disk Utilities and format the drive, where you want to install macOS, to Extended Journal. GTP partition mapping. Then press Install macOS.
+  - If you get an error like [this](https://github.com/md-siam/Hackintosh-Legion-Y730_Y740/blob/master/images/macOS_2.jpg), then change the time of your laptop using terminal.
+  - First disconnect your ethernet cable.
+  - If you are not familiar with Terminal, then follow the procedure in [photo 1](https://github.com/md-siam/Hackintosh-Legion-Y730_Y740/blob/master/images/macOS_3.jpg) & [photo 2](https://github.com/md-siam/Hackintosh-Legion-Y730_Y740/blob/master/images/macOS_4.jpg) to set the year to 2016.
+  - After changing the year, press Install macOS. It will start the installation of macOS to your Y730.
+  - The hard part is over now. 
+
+
 ## Things that do not works:
 <img align="right" src="images/TP-Link%20Archer%20T4U%20AC1300.jpg" height="250">
 <p align="justify" >
-So far everything is working smoothly, except the Wi-Fi card inside the laptop. With my laptop there is Intel® Wireless-AC 9560 dual band Wi-Fi card, and there is no macOS driver for this Intel 9560 Wifi card. But the <b>Bluetooth</b> inside the Intel card works perfectly. So, in order to enable the Wi-Fi connection, I bought a Tp-Link Archer T4U Wi-Fi adapter. A picture of my WiFi card is given on your right. Driver for this Wi-Fi adapter can be downloaded from <a href="https://www.tp-link.com/uk/support/download/archer-t4u/#Driver">here</a>.
+So far everything is working smoothly, except the Wi-Fi card inside the laptop. With my laptop there is Intel® Wireless-AC 9560 dual band Wi-Fi card, and there is no macOS driver for this Intel 9560 Wifi card. But the <b>Bluetooth</b> inside the Intel card works perfectly. So, in order to enable the Wi-Fi connection, I bought a Tp-Link Archer T4U Wi-Fi adapter. A picture of my WiFi card is given on your right. Driver for this Wi-Fi adapter can be downloaded from <a href="https://www.tp-link.com/uk/support/download/archer-t4u/#Driver" target="_blank">here</a>.
 </p>
 
 
