@@ -57,9 +57,9 @@ So far everything is working smoothly, except the Wi-Fi card inside the laptop. 
 
 
 ## Alternative of Archer T4U:
-<img align="left" src="images/BCM94352Z.jpg" height="300">
+<img align="left" src="images/BCM94352Z.jpg" height="450">
 <p align="justify" >
-If you want to keep inverything inside your laptop, then Broadcom BCM94352Z Wi-Fi card is the alternative of Tp-Link Archer T4U. But it is expensive if you want to buy it brand new. This card is menufacture my <b>Lenovo</b>. Check for Lenovo branding before you decide to buy any Wi-Fi card.
+If you want to keep inverything inside your laptop, then Broadcom BCM94352Z Wi-Fi card is the alternative of Tp-Link Archer T4U. But it is expensive if you want to buy it brand new. This card is menufacture my <b>Lenovo</b>. Check for Lenovo branding ,in the card, before you buy any Wi-Fi card. Any Wi-Fi card will not work with Legion Y730.
 </p>
 
 
