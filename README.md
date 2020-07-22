@@ -24,7 +24,7 @@ If you are a windows user and require macOS to learn XCode, then you can transfo
   ```
   
 - Press F2 to get into the BIOS. Match your BIOS setting with the pictures given below:
-  - Information: Check BIOS Version 8XCN34WW (V2.03)
+  - Information: Check BIOS Version 8XCN34WW (V2.03)[Photo](https://github.com/md-siam/Hackintosh-Legion-Y730_Y740/blob/master/images/BIOS_0.jpg)
   - Configuration: [Photo](https://github.com/md-siam/Hackintosh-Legion-Y730_Y740/blob/master/images/BIOS_1.jpg)
   - Security: [Photo](https://github.com/md-siam/Hackintosh-Legion-Y730_Y740/blob/master/images/BIOS_2.jpg)
   - Boot: No change
