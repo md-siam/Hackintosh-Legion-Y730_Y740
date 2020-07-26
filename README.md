@@ -57,7 +57,7 @@ If you are a windows user and require macOS to learn XCode, then you can transfo
 ## After macOS Installation: 
   - Choose the partition where you install your macOS Mojave, suppose "macOS SSD".
   - Setup your keyboard.
-  - Copy "Clover Configarator" app to your application forlder.
+  - Copy "Clover Configarator" app to your "Applications" section.
   - Mount the EFI partition of both USB and "macOS SSD".
   - Copy the EFI folder from USB to EFI partition of "macOS SSD".
   - Now enjoy your hackingtosh.
