@@ -6,7 +6,7 @@ If you are a windows user and require macOS to learn XCode, then you can transfo
 
 
 ## Make Bootable USB with macOS Mojave or Windows 10:
-<img align="right" src="images/mojave.jpg" height="250"></img>
+<img align="right" src="images/mojave.jpg" height="300"></img>
 - Here I will explain the process of making a bootable USB drive. So be patience:
   - Size of the USB drive can be 8GB or more.
   - You can download the macOS macOS.dmg file from [geekrar.com](https://www.geekrar.com/download-macos-mojave-dmg-file-direct-links/), then open it through VirtualBox and copy "macOS Mojave Installer" into the "Applications" section of macOS.
