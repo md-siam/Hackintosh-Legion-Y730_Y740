@@ -12,7 +12,7 @@ If you are a windows user and require macOS to learn XCode, then you can transfo
   - Use USB 2.0 pen drive, to avoid error like: 🚫  sign with [dark background](https://github.com/md-siam/Hackintosh-Legion-Y730_Y740/blob/master/images/USB_Disconnected.jpg)
   - Turn on "Terminal" and copy and paste the command below:
   - ```sudo /Applications/Install\ macOS\ Mojave.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume```
-  - "MyVolume" - it is the name of USB pen drive.
+  - "MyVolume" - it is the name of your USB pen drive.
   - After making a USB bootable device, download "Clover Configurator" inside the VirtualBox. Mount the EFI partition, of the USB drive, using clover configurator, and replace the EFI folder with my EFI folder (unzip EFI.7z before placing it inside EFI partition).
   - Done with bootable USB device.
 
