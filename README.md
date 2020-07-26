@@ -8,7 +8,7 @@ If you are a windows user and require macOS to learn XCode, then you can transfo
 ## Make Bootable USB with macOS Mojave or Windows 10:
 ```
   ✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰ You can make a bootable USB from an original Mac machine, or ✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰
-  ✰✰✰✰✰✰✰✰✰ from a macOS installed into VirtualBox (especially the Windows 10 users) ✰✰✰✰✰✰✰✰✰✰
+  ✰✰✰✰✰✰✰✰✰ from a macOS installed into VirtualBox (especially the Windows OS users) ✰✰✰✰✰✰✰✰✰✰
   ```
 <img align="right" src="images/mojave.jpg" height="280"></img>
 - Here I will explain the process of making a bootable USB drive. So be patience:
