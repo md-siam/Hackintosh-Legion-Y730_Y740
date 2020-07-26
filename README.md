@@ -8,10 +8,12 @@ If you are a windows user and require macOS to learn XCode, then you can transfo
 ## Make Bootable USB with macOS Mojave or Windows 10:
 - Here I will explain the process of making a bootable USB drive. So be patience:
   - Size of the USB drive can be 8GB or more.
-  - Use USB 2.0 drive, to avoid error like: 🚫  sign with [dark background](https://github.com/md-siam/Hackintosh-Legion-Y730_Y740/blob/master/images/USB_Disconnected.jpg)
-  - Use Unibeast for making a bootable USB, and for that you can should first install macOS into a VirtualBox (assuming u don’t have access to a macOS).
-  - You can download the macOS macOS.dmg file from [geekrar.com](https://www.geekrar.com/download-macos-mojave-dmg-file-direct-links/), then open it through VirtualBox.
-  - After making a USB bootable device, download "Clover Configurator" inside VirtualBox. Mount the EFI partition using clover configurator, and replace the EFI folder with my EFI folder (unzip EFI.7z before placing it inside EFI partition).
+  - You can download the macOS macOS.dmg file from [geekrar.com](https://www.geekrar.com/download-macos-mojave-dmg-file-direct-links/), then open it through VirtualBox and copy "macOS Mojave Installer" into the "Applications" section of macOS.
+  - Use USB 2.0 pen drive, to avoid error like: 🚫  sign with [dark background](https://github.com/md-siam/Hackintosh-Legion-Y730_Y740/blob/master/images/USB_Disconnected.jpg)
+  - Turn on "Terminal" and copy and paste the command below:
+  - sudo /Applications/Install\ macOS\ Mojave.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume
+  - "MyVolume" - it is the name of USB pen drive.
+  - After making a USB bootable device, download "Clover Configurator" inside the VirtualBox. Mount the EFI partition, of the USB drive, using clover configurator, and replace the EFI folder with my EFI folder (unzip EFI.7z before placing it inside EFI partition).
   - Done with bootable USB device.
 
 
