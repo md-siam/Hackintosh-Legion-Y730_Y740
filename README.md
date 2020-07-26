@@ -9,7 +9,7 @@ If you are a windows user and require macOS to learn XCode, then you can transfo
 <img align="right" src="images/mojave.jpg" height="280"></img>
 - Here I will explain the process of making a bootable USB drive. So be patience:
   - Size of the USB drive can be 8GB or more.
-  - You can download the macOS.dmg file from [geekrar.com](https://www.geekrar.com/download-macos-mojave-dmg-file-direct-links/), then open it through VirtualBox and copy "macOS Mojave Installer" into the "Applications" section of macOS.
+  - You can download the macOS_Mojave.dmg file from [geekrar.com](https://www.geekrar.com/download-macos-mojave-dmg-file-direct-links/), then open it through VirtualBox and copy "macOS Mojave Installer" into the "Applications" section of macOS.
   - Use USB 2.0 pen drive, to avoid error like: 🚫  sign with [dark background](https://github.com/md-siam/Hackintosh-Legion-Y730_Y740/blob/master/images/USB_Disconnected.jpg)
   - Turn on "Terminal" and copy & paste the command below:
   - ```sudo /Applications/Install\ macOS\ Mojave.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume```
