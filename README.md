@@ -14,7 +14,7 @@ If you are a windows user and require macOS to learn XCode, then you can transfo
 - Here I will explain the process of making a bootable USB drive. So be patience:
   - Size of the USB drive can be 8GB or more.
   - Install any macOS operating system(Sierra or later) into a [VirtualBox](https://www.youtube.com/watch?v=qdR3T2jKucE).
-  - You can download the macOS_Mojave.dmg file from [geekrar.com](https://www.geekrar.com/download-macos-mojave-dmg-file-direct-links/), then open it through VirtualBox and copy "macOS Mojave Installer" into the "Applications" section of macOS.
+  - You can download the macOS_Mojave(18G95).dmg file from [torrentmac.net](https://www.torrentmac.net/macos-mojave-10-14-6-18g95/), then open it through VirtualBox and copy "macOS Mojave Installer" into the "Applications" section of macOS.
   - Use USB 2.0 pen drive, to avoid error like: 🚫  sign with [dark background](https://github.com/md-siam/Hackintosh-Legion-Y730_Y740/blob/master/images/USB_Disconnected.jpg)
   - Turn on "Terminal" and copy & paste the command below:
   - ```sudo /Applications/Install\ macOS\ Mojave.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume```
@@ -97,6 +97,6 @@ So, after successful macOS installation, enabled "Intel Virtual Technology" from
 
 ## Special Thanks To:
  - [tonymacx86](https://www.tonymacx86.com) for Clover
- - [geekrar](https://www.geekrar.com) for full macOS Mojave DMG file [sharing](https://www.geekrar.com/download-macos-mojave-dmg-file-direct-links/)
+ - [torrentmac](https://www.torrentmac.net) for full macOS Mojave DMG file [sharing](https://www.geekrar.com/download-macos-mojave-dmg-file-direct-links/)
  - [ᔕᗩᕼᗩᗷᗩT GEᗰᗷᒪᑌᑎG](https://twitter.com/Goeprulz) for providing his [EFI](https://www.dropbox.com/s/hfy1jwdja3wbj76/EFI_LEGION_Y740_10.14.6_V3.zip?dl=0) folder
  - [ComputerTipsLaiju](https://www.youtube.com/watch?v=57aA8e9YQSg&t=66s) for macOS installation guide
