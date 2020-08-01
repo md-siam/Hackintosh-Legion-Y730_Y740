@@ -16,6 +16,7 @@ If you are a windows user and require macOS to learn XCode, then you can transfo
   - Install any macOS operating system(Sierra or later) into a [VirtualBox](https://www.youtube.com/watch?v=qdR3T2jKucE).
   - You can download the macOS_Mojave(18G95).dmg file from [torrentmac.net](https://www.torrentmac.net/macos-mojave-10-14-6-18g95/), then open it through VirtualBox and copy "macOS Mojave Installer" into the "Applications" section of macOS.
   - Use USB 2.0 pen drive, to avoid error like: 🚫  sign with [dark background](https://github.com/md-siam/Hackintosh-Legion-Y730_Y740/blob/master/images/USB_Disconnected.jpg)
+  - Open "Disk Utility" and format your USB pendrive according to [this](https://github.com/md-siam/Hackintosh-Legion-Y730_Y740/blob/master/images/USB_Formatting.png) configuration.
   - Turn on "Terminal" and copy & paste the command below:
   - ```sudo /Applications/Install\ macOS\ Mojave.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume```
   - "MyVolume" - it is the name of your USB pen drive.
